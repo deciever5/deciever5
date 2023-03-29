@@ -1,7 +1,7 @@
 # Hi there, I'm @deciever5! 👋
 
 ## About me
-I'm an experienced Automation Engineer and Mechanical Designer with a strong background in Python programming. Currently, I'm transitioning my career towards software development, focusing on Python.
+I'm an experienced Automation Engineer and Mechanical Designer with a background in Python programming. Currently, I'm transitioning my career towards software development, focusing on Python.
 
 ## My interests
 - Python programming
