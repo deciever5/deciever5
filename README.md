@@ -27,3 +27,4 @@ I'm an experienced Automation Engineer and Mechanical Designer with a background
 - Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/marcin-kunikowski/)
 
 Feel free to explore my repositories and don't hesitate to reach out if you have any questions or collaboration ideas!
+kaspa:qrzhzd4gm50ncwshwfwrk9mkl3d8n62m2gtv0e8dvs64tuxq9zznuv8r794ll
