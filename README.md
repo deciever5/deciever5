@@ -15,7 +15,7 @@ I'm an experienced Automation Engineer and Mechanical Designer with a background
 - Familiarizing myself with relevant frameworks and libraries
 
 ## My experience
-- 7+ years in Automation Engineering and Mechanical Design
+- 12+ years in Automation Engineering and Mechanical Design
 - Developed tools for data transfer between legacy systems and new production equipment using Python
 
 ## Looking to collaborate on
