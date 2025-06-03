@@ -1,4 +1,4 @@
-# Hi there, I'm @deciever5! 👋
+# Hi there, 👋
 
 ## About me
 I'm an experienced Automation Engineer and Mechanical Designer with a background in Python programming. Currently, I'm transitioning my career towards software development, focusing on Python.
